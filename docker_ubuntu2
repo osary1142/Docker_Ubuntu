@@ -1,2 +1,2 @@
-adduser testuser
-usermod -aG sudo testuser
+apt update && apt upgrade -y
+apt install -y man vim net-tools iputils-ping sudo
