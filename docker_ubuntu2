@@ -1,0 +1,2 @@
+adduser testuser
+usermod -aG sudo testuser
