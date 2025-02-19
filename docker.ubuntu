@@ -1,0 +1,1 @@
+docker run -it --name ubuntu-lpic1 --hostname ubuntu-lpic1 ubuntu:latest bash
