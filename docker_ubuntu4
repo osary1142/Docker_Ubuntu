@@ -1,0 +1,2 @@
+docker stop ubuntu-lpic1
+docker start -ai ubuntu-lpic1
